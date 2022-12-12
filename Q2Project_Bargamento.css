@@ -1,0 +1,50 @@
+body{
+	font-family: Tahoma;
+	color: #ffffff;
+}
+h2{
+	background-color: #3b83db;
+	text-shadow: 2px 2px black;
+}
+h3{
+	text-shadow: 1.5px 1.5px gray;
+}
+img{
+	height: 100px;
+	width: 100px;
+}
+table{
+	border-style: dotted;
+	border-width: 3px;
+	border-color: #3b9bdb;
+}
+td{
+	text-align: center;
+}
+.ben{
+	font-family: Segoe Print;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: white;
+}
+.none{
+	border-style: initial;
+}
+.sm{
+	color: #1f6df2;
+}
+.big{
+	color: #54e87b;
+	text-shadow: 1px 1px #256b38;
+}
+.mass{
+	color: #f21f1f;
+	text-shadow: 1px 1px #540000;
+}
+.i{
+	font-style: italic;
+}
+.canc{
+	font-family: Tahoma;
+	letter-spacing: 2px;
+}
